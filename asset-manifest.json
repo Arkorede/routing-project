@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/routing-project/static/css/main.a102879e.css",
+    "main.js": "/routing-project/static/js/main.8fe1aa57.js",
+    "static/js/787.436092f4.chunk.js": "/routing-project/static/js/787.436092f4.chunk.js",
+    "index.html": "/routing-project/index.html",
+    "main.a102879e.css.map": "/routing-project/static/css/main.a102879e.css.map",
+    "main.8fe1aa57.js.map": "/routing-project/static/js/main.8fe1aa57.js.map",
+    "787.436092f4.chunk.js.map": "/routing-project/static/js/787.436092f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a102879e.css",
+    "static/js/main.8fe1aa57.js"
+  ]
+}
